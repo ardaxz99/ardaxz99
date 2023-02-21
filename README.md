@@ -9,7 +9,7 @@
 <div style="display: flex;">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   <img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
 </div>
 
