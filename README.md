@@ -87,7 +87,7 @@
 
 ## My Github Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99" alt="ardaxz99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" alt="ardaxz99" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ardaxz99" /></p>
 
