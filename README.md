@@ -95,6 +95,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99&" alt="ardaxz99" /></p>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ardaxz99}/count.svg" alt="ardaxz99 :: Visitor's Count" /></p>
+
 ![Snake animation](https://github.com/ardaxz99/ardaxz99/blob/output/github-contribution-grid-snake.svg)
 
 
