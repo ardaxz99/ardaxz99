@@ -93,9 +93,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaxz99&show_icons=true&theme=tokyonight&locale=en" alt="ardaxz99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99" alt="ardaxz99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99&theme=tokyonight" alt="ardaxz99" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ardaxz99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ardaxz99&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/ardaxz99/ardaxz99/blob/output/github-contribution-grid-snake.svg)
 
