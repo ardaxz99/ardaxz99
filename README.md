@@ -31,10 +31,11 @@
 </div>
 
 ## Connect with me
+<div align="left"> 
 <a href="https://twitter.com/ardabaris257" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ardabarisbasaran" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/WGxzQDH6" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
-</p>
+</div> 
 
 
 
