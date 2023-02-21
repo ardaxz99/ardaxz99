@@ -3,15 +3,11 @@
 </div>  
 <h3 align="center">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99" alt="ardaxz99" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-
-<p align="left"> <a href="https://twitter.com/ardabaris257" target="blank"><img src="https://img.shields.io/twitter/follow/ardabaris257?logo=twitter&style=for-the-badge" alt="ardabaris257" /></a> </p>
 
 - 🔭 I’m a full-time researcher at **METU Center for Image Analysis**
 
@@ -23,12 +19,18 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardabarisbasaran/](https://www.linkedin.com/in/ardabarisbasaran/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99" alt="ardaxz99" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ardabaris257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardabaris257" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ardabarisbasaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardabarisbasaran" height="30" width="40" /></a>
 <a href="https://discord.gg/WGxzQDH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AndreiBolkonsky#6699" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Skills:</h3>
 <p align="left">
