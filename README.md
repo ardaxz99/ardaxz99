@@ -91,7 +91,7 @@
 
 <img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
 
-<img src="https://komarev.com/ghpvc/?username=ardaxz99&color=brightgreen" alt="watching_count" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99)
 
