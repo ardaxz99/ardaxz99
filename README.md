@@ -8,7 +8,20 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
+<div style="display:flex;">
+  <div>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
+  </div>
+  <div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
+  </div>
+  <div>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
+  </div>
+</div>
 
 
 - 🔭 I’m a full-time researcher at **METU Center for Image Analysis**
@@ -86,16 +99,6 @@
 
 
 ## My Github Stats
-
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
-<img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99)
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" alt="ardaxz99" /></a> </p>
 
