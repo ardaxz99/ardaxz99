@@ -8,12 +8,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<div style="display: flex;">
-  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
-  <img src="https://img.shields.io/github/stars/ardaxz99?label=Stars" alt="stars">
-  <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
-</div>
+
 
 
 
@@ -28,12 +23,17 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardabarisbasaran/](https://www.linkedin.com/in/ardabarisbasaran/)
 
 
-
+<div style="display: flex;">
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+  <img src="https://img.shields.io/github/stars/ardaxz99?label=Stars" alt="stars">
+  <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
+</div>
 
 ## Connect with me
-<a href="https://twitter.com/ardabaris257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardabaris257" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ardabarisbasaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardabarisbasaran" height="30" width="40" /></a>
-<a href="https://discord.gg/WGxzQDH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AndreiBolkonsky#6699" height="30" width="40" /></a>
+<a href="https://twitter.com/ardabaris257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardabaris257" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/ardabarisbasaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardabarisbasaran" height="50" width="50" /></a>
+<a href="https://discord.gg/WGxzQDH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AndreiBolkonsky#6699" height="50" width="50" /></a>
 </p>
 
 
