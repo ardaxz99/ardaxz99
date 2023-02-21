@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h3 align="center">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
+<h3 align="center">Greetings, I am Arda Barış Başaran, a graduate student pursuing a MSc degree in Electrical and Electronics Engineering at Middle East Technical University.</h3>
 
 <br/><br/>
 
