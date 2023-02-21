@@ -10,8 +10,6 @@
 
 <div style="display: flex;">
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
-
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   <img src="https://img.shields.io/github/stars/ardaxz99?label=Stars" alt="stars">
   <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
