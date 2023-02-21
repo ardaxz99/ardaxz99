@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
+
 <h3 align="center">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
 
 
@@ -19,9 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardabarisbasaran/](https://www.linkedin.com/in/ardabarisbasaran/)
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99" alt="ardaxz99" /></a> </p>
 
