@@ -93,8 +93,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99)
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardaxz99&repo=ardaxz99&countColorcountColor&countColor=%237B1E7B"/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" alt="ardaxz99" /></a> </p>
