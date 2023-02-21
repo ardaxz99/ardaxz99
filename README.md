@@ -2,8 +2,14 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
-<h3 align="center" onmouseover="window.status=''; return true;" style="cursor: default;">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
+<h3 align="center">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
 
+<style>
+a:hover {
+    text-decoration: none;
+    cursor: default;
+}
+</style>
 
 
 
