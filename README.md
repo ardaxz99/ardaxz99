@@ -12,6 +12,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
+
 
 - 🔭 I’m a full-time researcher at **METU Center for Image Analysis**
 
@@ -23,7 +25,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardabarisbasaran/](https://www.linkedin.com/in/ardabarisbasaran/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99" alt="ardaxz99" /></a> </p>
 
