@@ -4,7 +4,7 @@
 
 <h3 align="center">Greetings, I am Arda Barış Başaran, a graduate student pursuing a MSc degree in Electrical and Electronics Engineering at Middle East Technical University.</h3>
 
-<br/><br/>
+<br/>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
