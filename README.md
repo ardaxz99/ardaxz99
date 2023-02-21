@@ -6,6 +6,8 @@
 
 <br/><br/>
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 <div style="display: flex;">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
   <img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
@@ -13,7 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+
 
 - 🔭 I’m a full-time researcher at **METU Center for Image Analysis**
 
