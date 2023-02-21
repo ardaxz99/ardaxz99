@@ -93,7 +93,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaxz99&show_icons=true&theme=tokyonight&locale=en" alt="ardaxz99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99&theme=tokyonight" alt="ardaxz99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99" alt="ardaxz99" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ardaxz99&theme=tokyonight)](https://git.io/streak-stats)
 
