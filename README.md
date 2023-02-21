@@ -32,7 +32,8 @@
 </p>
 
 
-### My Skill Set  
+<h3 align="left">My Skill Set:</h3>
+<p align="left"> 
 <table><tr><td valign="top" width="33%">
   
 ### Programming Languages  
