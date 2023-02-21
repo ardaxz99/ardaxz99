@@ -34,7 +34,6 @@
 <a href="https://discord.gg/WGxzQDH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AndreiBolkonsky#6699" height="30" width="40" /></a>
 </p>
 
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -89,7 +88,6 @@
 
 </td></tr></table>  
 
-<br/>  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&show_icons=true&locale=en&layout=compact" alt="ardaxz99" /></p>
