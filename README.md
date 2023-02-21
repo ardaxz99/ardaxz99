@@ -36,8 +36,8 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<table border="0"><tr><td valign="top" width="33%">
+  
 ### Programming Languages  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
