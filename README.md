@@ -87,6 +87,8 @@
 
 ## My Github Stats
 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" alt="ardaxz99" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ardaxz99" /></p>
