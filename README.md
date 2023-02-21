@@ -4,11 +4,7 @@
 
 <h3 align="center">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
 
-
-
-
-
-
+<br/><br/>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
