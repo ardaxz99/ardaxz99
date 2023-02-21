@@ -91,6 +91,7 @@
 
 <img src="https://img.shields.io/github/stars/ardaxz99?color=236ad3&style=for-the-badge&logo=github&label=Stars" alt="stars">
 
+<img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ardabaris257?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" alt="ardaxz99" /></a> </p>
 
