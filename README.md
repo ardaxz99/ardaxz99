@@ -66,4 +66,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99&" alt="ardaxz99" /></p>
 
-
+![Snake animation](https://github.com/ardaxz99/ardaxz99/blob/output/github-contribution-grid-snake.svg)
