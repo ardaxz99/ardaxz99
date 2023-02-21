@@ -102,6 +102,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ardaxz99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ardaxz99)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ardaxz99&theme=tokyonight)  
+
+
 ![Snake animation](https://github.com/ardaxz99/ardaxz99/blob/output/github-contribution-grid-snake.svg)
 
 
