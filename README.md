@@ -31,7 +31,7 @@
 </div>
 
 ## Connect with me
-<a href="https://twitter.com/ardabaris257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardabaris257" height="40" width="40" style="margin-right: 10px;"/></a>
+<a href="https://twitter.com/ardabaris257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ardabaris257" height="40" width="40" style="margin-right: 30px;"/></a>
 <a href="https://linkedin.com/in/ardabarisbasaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardabarisbasaran" height="40" width="40" /></a>
 <a href="https://discord.gg/WGxzQDH6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AndreiBolkonsky#6699" height="40" width="40" /></a>
 </p>
