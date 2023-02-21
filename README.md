@@ -1,7 +1,9 @@
-<div style="text-align: center;">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 50%" />
-  <h3>I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
-</div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
+
+<h3 align="center" onmouseover="window.status=''; return true;" style="cursor: default;">I'm Arda Barış Başaran. I am a MSc student in electrical and electronics engineering at Middle East Technical University.</h3>
+
 
 
 
@@ -33,7 +35,6 @@
 
 
 <h3 align="left">Skills:</h3>
-<div>
   <h4>Programming Languages:</h4>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -58,7 +59,7 @@
   
   <h4>Backend as a Service:</h4>
   </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
-</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&show_icons=true&locale=en&layout=compact" alt="ardaxz99" /></p>
 
