@@ -1,12 +1,16 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> -->
+<img src="https://64.media.tumblr.com/fedd8ac0f32ed7e02a8f971d73a0fb01/7ded569f7ae6ba05-a3/s540x810/214f0f32b0a0842b039a687a18b833832cf13910.gifv" align="center" style="width: 50%" />
+By adding `
+
 </div>  
 
 <h3 align="center">Greetings, I am Arda Barış Başaran, a graduate student pursuing a MSc degree in Electrical and Electronics Engineering at Middle East Technical University.</h3>
 
 <br/>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> -->
+
 
 
 
