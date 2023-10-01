@@ -76,7 +76,7 @@
 
 ### Framework  
 <div align="center">  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ardaxz99/ardaxz99/blob/main/flask-logo-png-transparent.png?raw=true" alt="flask" width="40" height="40"/> </a>
 </div>
 
 </td><td valign="top" width="33%">
