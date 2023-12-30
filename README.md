@@ -16,7 +16,6 @@
 
 
 
-- 🔭 I’m a full-time researcher at **METU Center for Image Analysis**
 
 - 🌱 I’m currently learning **Natural Language Processing.**
 
