@@ -5,7 +5,7 @@
 
 </div>  
 
-<h3 align="center">Greetings, I am Arda Barış Başaran, a graduate student pursuing a MSc degree in Electrical and Electronics Engineering at EPFL.</h3>
+<h3 align="center">Greetings, I am Arda Barış Başaran, a PhD student at ETH ADAMMA Lab.</h3>
 
 <br/>
 
