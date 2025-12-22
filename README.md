@@ -12,15 +12,6 @@
 <!-- <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> -->
 
 
-
-
-
-
-
-- 🌱 I’m currently learning **Natural Language Processing.**
-
-- 💬 Ask me anything about **being an electrical and electronics engineering student!**
-
 - 📫 How to reach me **ardabarisbasaran@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ardabarisbasaran/](https://www.linkedin.com/in/ardabarisbasaran/)
