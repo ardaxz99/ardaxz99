@@ -43,5 +43,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardaxz99&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardaxz99&theme=tokyo-night" />
 </p>
