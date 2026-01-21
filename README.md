@@ -14,14 +14,14 @@
 </div>
 
 ## Connect with me
-<div align="left"> 
-  <a href="https://linkedin.com/in/ardabarisbasaran" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:abasaran@ethz.ch">
-    <img src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+<p align="left">
+  <a href="https://linkedin.com/in/ardabarisbasaran">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
-</div>
+  <a href="mailto:abasaran@ethz.ch">
+    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" />
+  </a>
+</p>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
