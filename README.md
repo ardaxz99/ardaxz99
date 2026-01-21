@@ -8,7 +8,6 @@
 <br/>
 
 <div style="display: flex;">
-  <img src="https://img.shields.io/github/stars/ardaxz99?label=Stars" alt="stars">
   <img src="https://komarev.com/ghpvc/?username=ardaxz99&label=Profile%20views&color=0e75b6&style=flat" alt="ardaxz99" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardaxz99.ardaxz99" alt="visitors">
 </div>
