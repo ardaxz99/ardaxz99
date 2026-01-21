@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1rnKGOG77FC1WwHZQkG5l5agp1VsD55Wb" align="center" style="width: 100%" />
 </div>  
 
-<h3 align="center">Greetings, I am Arda Barış Başaran, a PhD student at ETH ADAMMA Lab.</h3>
+<h3 align="center">👋 Hi, I am Arda Barış Başaran</h3>
 
 <br/>
 
