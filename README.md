@@ -4,7 +4,7 @@
 
 <!-- Greeting (Centered) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I+am+Arda+Barış+Başaran" alt="Hi, I am Arda Barış Başaran" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=👋%20Hi,%20I%20am%20Arda%20Barış%20Başaran&height=60&fontSize=30" alt="Hi, I am Arda Barış Başaran" />
 </div>
 
 <br/>
