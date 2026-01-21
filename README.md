@@ -15,12 +15,8 @@
 
 ## Connect with me
 <p style="display:flex; align-items:center;">
-  <a href="https://linkedin.com/in/ardabarisbasaran">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" style="display:block;">
-  </a>
-  <a href="mailto:abasaran@ethz.ch">
-    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" style="display:block;">
-  </a>
+  <a href="https://linkedin.com/in/ardabarisbasaran"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display:block; margin-right: 10px;"></a>
+  <a href="mailto:abasaran@ethz.ch"><img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" style="display:block;"></a>
 </p>
 
 
