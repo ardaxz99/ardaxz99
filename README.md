@@ -14,14 +14,15 @@
 </div>
 
 ## Connect with me
-<p align="left">
+<p align="left" style="display:flex; gap:0;">
   <a href="https://linkedin.com/in/ardabarisbasaran">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png">
   </a>
   <a href="mailto:abasaran@ethz.ch">
-    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" />
+    <img src="https://img.icons8.com/color/48/000000/apple-mail.png">
   </a>
 </p>
+
 
 
 ## My GitHub Stats
