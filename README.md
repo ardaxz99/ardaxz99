@@ -26,10 +26,6 @@
 
 ## My GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ardaxz99&theme=tokyonight" />
-</p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&theme=tokyonight&layout=compact" />
 </p>
