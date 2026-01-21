@@ -23,68 +23,6 @@
   </a>
 </p>
 
-## My Skill Set
-<table><tr><td valign="top" width="33%">
-  
-### Programming Languages  
-<div align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
-  </a>
-</div> 
-  
-### Software  
-<div align="center">  
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  </a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-### AI / ML / Data Science
-<div align="center">  
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-</div>  
-
-### Framework  
-<div align="center">  
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://github.com/ardaxz99/ardaxz99/blob/main/flask-logo-png-transparent.png?raw=true" width="40"/>
-  </a>
-</div>
-
-</td><td valign="top" width="33%">
-
-### Game Engines  
-<div align="center">  
-  <a href="https://unity.com/">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-  </a> 
-</div>  
-
-### Backend as a Service  
-<div align="center">  
-  <a href="https://heroku.com">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-  </a>
-</div>
-
-</td></tr></table>  
 
 ## My GitHub Stats
 
