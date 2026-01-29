@@ -27,5 +27,5 @@
 </p>
 
 <!-- Stats Header (Left Aligned & Colored) -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=1&pause=1000&color=7AA2F7&center=false&vCenter=true&width=435&lines=My+GitHub+Stats" alt="My GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=1&pause=1000&color=7AA2F7&center=false&vCenter=true&width=435&lines=Tech+Stack" alt="My GitHub Stats" />
 
