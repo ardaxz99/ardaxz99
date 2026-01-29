@@ -29,21 +29,3 @@
 <!-- Stats Header (Left Aligned & Colored) -->
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=1&pause=1000&color=7AA2F7&center=false&vCenter=true&width=435&lines=My+GitHub+Stats" alt="My GitHub Stats" />
 
-<!-- Stats Graphs -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaxz99&theme=tokyonight&layout=compact" />
-</p>
-
-<div style="clear:both;"></div>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaxz99&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardaxz99&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardaxz99&theme=tokyo-night" />
-</p>
